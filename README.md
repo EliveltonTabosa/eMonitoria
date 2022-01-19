@@ -1,3 +1,3 @@
 # eMonitoria
  Sistema para "lançar" monitorias em callcenter.
- Acompanha a minha evolução em HTML,CSS e javaScript.
+ Esse projeto acompanha a minha evolução em HTML,CSS e javaScript.
