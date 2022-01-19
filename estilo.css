@@ -19,7 +19,9 @@ header{
     line-height: 1px;
 
 }
-
+#nota{
+    line-height: 200px;
+}
 
 main{
     background-color: rgb(240, 240, 240);
