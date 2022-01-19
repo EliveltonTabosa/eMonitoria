@@ -1,0 +1,44 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#subtitulo{
+    font-size: 15px;
+    font:italic;
+}
+header{
+    font-size: 20px;
+    color: color:rgb(17, 70, 65);
+    text-align: center;
+    background-color: rgb(129, 202, 195);
+    height: 50px;
+    border-radius: 15px;
+    width: 600px;
+    margin: 20px;
+    padding: 20px;
+    line-height: 1px;
+
+}
+
+
+main{
+    background-color: rgb(240, 240, 240);
+    border-radius: 15px;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    width: 600px;
+    height: 200px;
+    margin: 20px;
+    padding: 20px;
+}
+footer{
+    color: color:rgb(17, 70, 65);
+    text-align: center;
+    background-color: rgb(129, 202, 195);
+    height: 50px;
+    line-height: 50px;
+    border-radius: 15px;
+    width: 600px;
+    margin: 20px;
+    padding: 20px;
+}
